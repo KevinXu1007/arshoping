@@ -13,8 +13,10 @@ Swift 3, Spring MVC, Hibernate, RESTful web service, JSON etc.
 
 6. Open a web browser and input the URL of the project including the web server ip address, port and project name to run the web application to manage the back-end.
 
-example: http://66.25.17.182:8080/arshop/adminIndex 
+example: http://ip:8080/arshop/adminIndex 
+
 username:admin 
+
 password:admin
 
 7. Put ARShopping.zip into the Mac OS and open the ARShopping.xcodeproj in the xcode 8.0 or up version.
